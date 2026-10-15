@@ -1,8 +1,3 @@
--- VERITAS — Réplique du schéma Lovable Cloud sur une base Supabase EXTERNE.
--- À exécuter dans le SQL Editor de ta base externe (snqhiwxpahjknpyoeals).
--- Idempotent : peut être rejoué sans casser l'existant.
-
--- =========================================================================
 -- 1. SCHEMAS
 -- =========================================================================
 CREATE SCHEMA IF NOT EXISTS private;
